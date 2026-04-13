@@ -4,8 +4,7 @@ icon: fas fa-user
 order: 1
 ---
 
-<img src="/assets/img/Profile.jpg" 
-     style="float: right; width: 220px; margin-left: 20px; border-radius: 12px;">
+![Sacrament](/assets/img/Profile.jpg){: .right }{: w="220" h="200" }
 
 # Hi, I'm Sachin
 
