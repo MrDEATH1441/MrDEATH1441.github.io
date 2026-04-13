@@ -4,40 +4,29 @@ icon: fas fa-user
 order: 1
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: center;">
-
-<!-- LEFT: TEXT -->
-<div style="flex: 1; min-width: 260px;">
+<img src="/assets/img/Profile.jpg" 
+     style="float: right; width: 220px; margin-left: 20px; border-radius: 12px;">
 
 # Hi, I'm Sachin
 
 ## About Me
-I’m a UG Student interested in /*unclear*\ .  
+I’m a UG student interested in *unclear*.  
 Currently exploring Data Structures and Algorithms.
 
 ## What I Do
-- Build 
-- Learn <topics>
-- Write about <ideas>
+- Build
+- Learn
+- Write about
 
 ## Current Focus
-> Improving in consistency and building real-world projects.
+> Improving consistency and building real-world projects.
 
 ## Goals
-- Build a Dyanamic Web Application for Overthinkers to collaborate.
-- Build a Full on Professional Grade Web Application with Porper Documentation
+- Build a dynamic web application for overthinkers to collaborate  
+- Build a full professional-grade web application with proper documentation  
 
 ## Links
-- GitHub: https://github.com/MrDEATH1441/
-- Email: sachin.sy1441@gmail.com
+- GitHub: https://github.com/MrDEATH1441  
+- Email: sachin.sy1441@gmail.com  
 
-</div>
-
-<div style="flex: 1; min-width: 260px; text-align: center;">
-
-![profile](assets\img\Profile.jpg)
-_Sacrament_
-
-</div>
-
-</div>
+<div style="clear: both;"></div>
