@@ -3,9 +3,6 @@ title: About
 icon: fas fa-user
 order: 1
 ---
-
-![Sacrament](/assets/img/Profile.jpg){: .right }{: w="220" h="200" }
-
 # Hi, I'm Sachin
 
 ## About Me
@@ -26,6 +23,7 @@ Currently exploring Data Structures and Algorithms.
 
 ## Links
 - GitHub: https://github.com/MrDEATH1441  
-- Email: sachin.sy1441@gmail.com  
+- Email: sachin.sy1441@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sachin-kumar-504054372/
 
 <div style="clear: both;"></div>
