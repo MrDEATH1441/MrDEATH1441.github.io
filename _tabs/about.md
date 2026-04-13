@@ -3,6 +3,9 @@ title: About
 icon: fas fa-user
 order: 1
 ---
+
+![Sacrament](/assets/img/Profile.jpg){: .right }{: w="150" h="130" }
+
 # Hi, I'm Sachin
 
 ## About Me
