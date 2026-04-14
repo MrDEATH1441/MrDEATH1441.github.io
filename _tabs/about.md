@@ -1,26 +1,26 @@
 ---
-title: About
+title: " "
 icon: fas fa-user
 order: 1
 ---
 
 ![Sacrament](/assets/img/Profile.jpg){: .right }{: w="150" h="130" }
 
-# Hi, I'm Sachin
+# **_Hi, I'm Sachin_**
 
-## About Me
-I’m a UG student interested in *unclear*.  
+## **About Me**
+I’m a UG student interested in **NULL**.  
 Currently exploring Data Structures and Algorithms.
 
-## What I Do
+## **What I Do**
 - Build
 - Learn
 - Write about
 
-## Current Focus
+## **Current Focus**
 > Improving consistency and building real-world projects.
 
-## Goals
+## **Goals**
 - Build a dynamic web application for overthinkers to collaborate  
 - Build a full professional-grade web application with proper documentation  
 
